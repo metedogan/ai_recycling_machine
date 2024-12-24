@@ -127,7 +127,7 @@ cardboard231.jpg 3
 trash45.jpg 6
 cardboard57.jpg 3
 paper563.jpg 2
-trash35.jpg 6
+trash35.jpg 4
 paper500.jpg 2
 glass388.jpg 1
 plastic372.jpg 4
@@ -178,7 +178,7 @@ paper7.jpg 2
 trash28.jpg 6
 paper357.jpg 2
 trash94.jpg 6
-paper576.jpg 2
+paper576.jpg 3
 paper112.jpg 2
 metal68.jpg 5
 glass446.jpg 1
@@ -245,7 +245,7 @@ plastic67.jpg 4
 cardboard259.jpg 3
 glass60.jpg 1
 glass322.jpg 1
-paper348.jpg 2
+paper348.jpg 3
 paper385.jpg 2
 glass418.jpg 1
 cardboard321.jpg 3
@@ -327,7 +327,7 @@ cardboard63.jpg 3
 paper311.jpg 2
 cardboard190.jpg 3
 glass311.jpg 1
-paper593.jpg 2
+paper593.jpg 3
 plastic214.jpg 4
 cardboard289.jpg 3
 paper273.jpg 2
